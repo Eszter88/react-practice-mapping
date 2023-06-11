@@ -6,7 +6,7 @@ function NavBar() {
   return (
     <nav>
       <h1 className="logo">New York Times Best Sellers</h1>
-      <MenuIcon sx={{ fontSize: 24 }} />
+      <MenuIcon sx={{ fontSize: 44 }} />
     </nav>
   );
 }
